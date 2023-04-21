@@ -1,5 +1,14 @@
 body {
   font-family: "Poppins", sans-serif;
+  background: #f9f7fd;
+}
+
+.container {
+  background: white;
+}
+.filler {
+  background: #f9f7fd;
+  height: 300px;
 }
 
 header {
