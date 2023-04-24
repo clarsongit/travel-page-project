@@ -3,14 +3,6 @@ body {
   background: #f9f7fd;
 }
 
-.container {
-  background: white;
-}
-.filler {
-  background: #f9f7fd;
-  height: 300px;
-}
-
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
     url("../images/background.jpg");
@@ -144,15 +136,12 @@ header a {
 section {
   max-width: 100%;
   margin: 0 auto;
-  padding: 100px;
-}
-
-section.secondary {
-  background: #f8f8f8;
+  padding: 35px;
 }
 
 main {
   color: #272044;
+  padding-top: 25px;
 }
 
 main h4 {
